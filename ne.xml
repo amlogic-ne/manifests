@@ -26,7 +26,7 @@
   <project path="kernel/platform/kernel-5.15/vendor/amlogic/common_drivers" name="amlogic-ne/android_kernel_amlogic_common_drivers" revision="lineage-23.2" remote="github" />
   <project path="kernel/platform/kernel-5.15/vendor/amlogic/gpu-modules" name="LineageOS/android_kernel_amlogic_gpu-modules" revision="lineage-23.2" remote="github" />
   <project path="kernel/platform/kernel-5.15/vendor/amlogic/media-modules" name="LineageOS/android_kernel_amlogic_media-modules" revision="lineage-23.2" remote="github" />
-  <project path="kernel/platform/kernel-5.15/vendor/amlogic/amlogic-drivers/w2" name="LineageOS/android_kernel_amlogic_amlogic-drivers_w2" revision="lineage-23.2" remote="github" />
+  <project path="kernel/platform/kernel-5.15/vendor/amlogic/amlogic-drivers/w2" name="amlogic-ne/android_kernel_amlogic_amlogic-drivers_w2" revision="lineage-23.2" remote="github" />
   <project path="kernel/platform/kernel-5.15/vendor/amlogic/realtek-drivers/8822cs" name="LineageOS/android_kernel_amlogic_realtek-drivers_8822cs" revision="lineage-23.2" remote="github" />
   <project path="kernel/platform/kernel-5.15/vendor/amlogic/unisoc-drivers/uwe5621ds" name="amlogic-ne/android_kernel_amlogic_unisoc-drivers_uwe5621ds" revision="lineage-23.2" remote="github" />
 
